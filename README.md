@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Comecei na área de TI como suporte, adquiri muita experiência em infraestrutura de redes, administração de servidores e Linux. Foi uma porta de entrada porém não era o que eu almejava para minha carreira profissional. Sempre sonhei em trabalhar com desenvolvimento, tanto front-end como back-end. Após alguns cursos e projetos que desenvolvi por conta própria, me apaixonei por front-end e javascript. A partir desse momento comecei a focar o aprendizado em VueJS, pois nesse meio tempo também consegui meu primeiro emprego como desenvolvedor Web, utilizando essa tecnologia. Ainda almejo ser um desenvolvedor full-stack, mas antes disso, meu objetivo é dominar o front-end com VueJS e javascript.
+Start in the IT field as support, buy a lot of experience in network infrastructure, server administration and Linux. It was a gateway, but it wasn't, that I was aiming for my professional career. I have always dreamed of working with development, both front-end and back-end. After some courses and projects that develop, I fell in love with front-end and javascript. From that moment on, start focusing or learning on VueJS, as it is also possible to get my first job as a Web developer using this technology. It is still a full stack developer, but before that, my goal is to dominate or front-end with VueJS and javascript.
 
 📫 How to reach me: paulo.henriquejcn@gmail.com
 
